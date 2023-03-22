@@ -1,4 +1,4 @@
-# Table Visualizations - Introduction
+# Tableau Visualizations - Introduction
 
 ## Introduction
 Data visualization is the process of representing data in a visual format. The goal of data visualization is to communicate complex information in a clear and concise manner, making it easier to understand and interpret. Effective data visualization is an essential tool for anyone working with data, from researchers to business analysts.
