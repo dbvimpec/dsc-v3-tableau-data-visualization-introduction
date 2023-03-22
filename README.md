@@ -1,28 +1,58 @@
-# Data Visualization with Tableau - Introduction
+# Table Visualizations - Introduction
 
 ## Introduction
-In this section, you'll learn about a popular Business Information platform called Tableau. Tableau is used for the creation of sharable visualizations and customized dashboards for the consumption of stakeholders. The visualizations and dashboards created with Tableau will consist largely of graphs, tables and charts which may or may not be interactive. 
+Data visualization is the process of representing data in a visual format. The goal of data visualization is to communicate complex information in a clear and concise manner, making it easier to understand and interpret. Effective data visualization is an essential tool for anyone working with data, from researchers to business analysts.
 
-## What is Tableau?
-Tableau is a powerful data analysis tool that allows data to be presented in a manner that allows it to be easily digestible with visualizations and charts to aid in the simplification of the data and its analysis.  Tableau contains many customizable features and makes it easy to share in many ways. Tableau has many uses in the data science context, the most popular is for __Business Information__ commonly referred to as "__B.I.__" There are many ways Tableau can be used for B.I. but we will focus on just a few in this section.
+## Learning Objectives
+You will be able to:
+* Describe the basic principles of data visualization
+* Describe common mistakes to avoid in creating data visualizations
 
-#### Sharing Data Analytics
-One very simple feature of Tableau is the ability to share data analytics with many people who need to gain insight from the data you are working with. These analytics can be as simple as one visualization or a large collection of many charts and graphs on the form of a _Dashboard_.
+## Basic Principles of Data Visualization
+Here are some basic principles to keep in mind when creating visualizations:
 
-#### Dashboarding
-Another feature of Tableau is the ability to create __dashboards__. A dashboard is a business tool that can be used to sort and display data to gain deeper insight into the data being analyzed. Tableau excels in the amount of tools available for creating dashboards with a large selection of graphs and charts, the flexibility to format and arrange all of your elements in a manner that will allow you to communicate your findings from the data. You can customize many aspects of the elements in your dashboard by changing fonts, colors, sizes, positions, etc. The elements will also maintain a connection to the data source for live updates.
+1. **Know your audience:** The first step in creating a good data visualization is to know your audience. Who will be looking at your data, and what are their needs and interests? Tailor your visualizations to the intended audience to ensure that they are effective and useful.
 
-#### Stories
-Tableau incudes a presentation style dashboard which allows the user to combine all of the features into a structured interactive dashboard called a __story__.  A story is simply a collection of dashboards, worksheets, and tables organized in a manner to present the data and analysis in a format that is easy for the audience to view and understand. A story is very similar to PowerPoint and can be shared, deployed to a website, or used in a presentation to stakeholders.
+2. **Choose the right type of visualization:**
+There are many different types of visualizations, including bar charts, line charts, scatter plots, and more. Choose the type of visualization that best represents your data and supports your message.
 
-## Tableau Products and Versions
-Tableau's data visualization software comes in various platforms which are very similar at their core, but have different features that you may or may not need for your situation. The most popular of these platforms are Tableau Desktop and Tableau Public.
+3. **Keep it simple:**
+One of the most important principles of data visualization is simplicity. A good visualization should be easy to read and understand. Avoid clutter and unnecessary elements that can distract from the main message.
 
-#### Tableau Desktop
-Tableau Desktop is the premium version of the software. This paid version is the full featured version, which has the capability to connect to over 70 data sources, formats, and files. This version also allows the user to save work locally and share in a variety of formats. Tableau Desktop is a powerful version that is well-suited for a business or for a data professional who needs to keep data private and still maintain the ability to share dashboards with many people or clients.
+4. **Highlight key insights:**
+Use color, size, and other visual cues to highlight key insights and patterns in your data. This can help viewers quickly identify the most important information.
 
-#### Tableau Public
-Tableau Public is a free version of the software. The free version has the same basic features as Tableau Desktop, but with limitations on the formats and connections you can use to import your data source. The free version only allows for about 9 data sources, which include file types and some data connections such as AWS and Google. For an individual who is simply learning to use Tableau or creating projects to showcase their abilities, Tableau Public should be sufficient.
+5. **Provide context:**
+It's important to provide context for your data, so viewers can understand what they are looking at and what it means. This might include labels, captions, or annotations that explain what the data represents and how it was collected.
+
+6. **Be honest and transparent:**
+Data visualization should always be honest and transparent. Avoid manipulating or distorting data to support a particular agenda or point of view.
+
+## Common Mistakes to Avoid
+While creating data visualizations can be a powerful tool to communicate insights and help people understand complex data, there are several common mistakes that should be avoided to ensure that the visualizations are accurate and meaningful. Here are some of the most common mistakes to avoid when making data visualizations:
+
+1. **Misrepresenting data**:
+It is crucial to ensure that the data being visualized is accurate and not misrepresented. This could include misinterpreting data or using incorrect scales, such as changing the y-axis to distort the data.
+
+2. **Using inappropriate chart types**:
+It is essential to choose the right type of chart or graph to represent the data accurately. Using inappropriate chart types, such as a pie chart for complex data, can lead to confusion or inaccuracies.
+
+3. **Cluttered visualizations**:
+Cluttered visualizations can make it difficult for the audience to interpret the data accurately. It is essential to avoid including unnecessary design elements or information that is not relevant to the visualization.
+
+4. **Lack of context**:
+It is essential to provide context to the data being visualized. A lack of context can lead to the audience misunderstanding the data or making incorrect assumptions.
+
+5. **Poor color choices**:
+Color choices can significantly impact the readability and accuracy of a data visualization. Poor color choices can lead to confusion or misinterpretation of the data.
+
+6. **Inconsistent or unclear labeling**:
+Inconsistent or unclear labeling can make it challenging to interpret data accurately. It is essential to use clear and consistent labeling to ensure that the data is easy to understand.
+
+7. **Bias or manipulation**:
+It is crucial to avoid bias or manipulation when creating data visualizations. Manipulating data to support a particular agenda or point of view can be misleading and unethical.
+
+By avoiding these common mistakes, data visualizations can be accurate, clear, and informative, providing valuable insights to the audience.
 
 ## Summary
-Tableau is a powerful BI tool that has many features, which makes sharing data insight and analysis easy and effective. Tableau has different versions of their software which can be useful for different situations, so it is best to research the offerings to chose the right one. We will continue learning more about Tableau using Tableau Public in the following lessons.
+In this lesson, we reviewed the basic principles of data visualization, including knowing your audience, choosing the right type of visualization, keeping it simple, highlighting key insights, providing context, and being honest and transparent. We listed several common mistakes to avoid when making data visualizations, such as misrepresenting data, using inappropriate chart types, cluttered visualizations, lack of context, poor color choices, inconsistent or unclear labeling, and bias or manipulation. By avoiding these common mistakes, data visualizations can be accurate, clear, and informative, providing valuable insights to the audience. 
